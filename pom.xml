@@ -41,7 +41,7 @@
 
 <password>Stupid@050601</password>
 
-<applicationName>mule-cicd</applicationName>
+<applicationName>mulecicd</applicationName>
 
 <environment>Sandbox</environment>
 
