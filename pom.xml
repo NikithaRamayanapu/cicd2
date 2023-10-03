@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.mycompany</groupId>
-	<artifactId>cicd</artifactId>
+	<artifactId>cicd2</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
 
@@ -41,7 +41,7 @@
 
 <password>Stupid@050601</password>
 
-<applicationName>mulecicd</applicationName>
+<applicationName>cicd2</applicationName>
 
 <environment>Sandbox</environment>
 
